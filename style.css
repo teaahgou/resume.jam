@@ -1,0 +1,55 @@
+#cv-form {
+    /*display: none;*/
+}
+
+#cv-template {
+    display: none;
+}
+
+hr{
+    padding: 8px;
+    background-color: #0a5d5b;
+}
+
+.body {
+    background-color: #88c6c6;
+}
+
+.myimg {
+    /*border: 1px solid red;*/
+    border-radius: 50%;
+    width: 200px;
+    padding: 1px;
+    padding-left: 2px;
+    border: 8px solid transparent;
+    background: linear-gradient(60deg, #40fbf8 10%, #0a5d5b 100%);
+    margin-bottom: 5%;
+}
+
+.background {
+    background-color: #97cecc;
+    background: linear-gradient(60deg, #badfde 10%, #67b1b0 100%);
+}
+
+.form-group {
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+}
+
+.shadow {
+    box-shadow: 50px 50px 50px;
+}
+
+.card {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+}
+
+/*.col-md-4 {
+    margin-bottom: 4%;
+    margin-top: 3%;
+}*/
